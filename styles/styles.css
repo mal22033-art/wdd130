@@ -1,0 +1,37 @@
+img {
+    width: 250px;
+}
+
+body {
+    text-align: center; /* this is a comment */
+    background-color: rgb(0, 0, 0);
+    color: white; /* changes text color */
+    margin: 0; /* takes away the default margin */
+}
+
+header, footer {
+    background-color: lightblue;
+    padding: 20px;
+    text-align: left;
+    color: black;
+}
+nav a {
+    color: rgb(0, 0, 0);
+    text-decoration: none; /* removes the underline from links */
+}
+nav a:hover {
+    color: rgb(252, 0, 0);
+    text-decoration: underline; /* adds an underline when hovering over the link */
+}
+p {
+    font-size: 3em; /* changes the font size of paragraphs */
+}
+
+#second { /* this is an ID selector for only one id */
+    font-size: 1.5em;
+}
+
+.emphasis { /* this is a class selector for multiple elements */
+    font-style: italic;
+    color: green;
+}

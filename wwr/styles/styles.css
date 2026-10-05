@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Coustard:wght@400;900&display=swap');
+
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+#hero-msg h1, #hero-msg h2 {
+    text-align: center;
+}
+
+.button-box {
+    text-align: center;
+}
+
+main section {
+    text-align: center;
+}
+
+main section img {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fcfbfb;
+    font-family: "Alegreya", Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2F393D;
+}
+
+.logo {
+    width: 80px;
+}
+
+#logo-link {
+    padding-top: 5px;
+}
+
+.icon {
+    width: 80px;
+    padding-top: 10px;
+}
+
+#hero-img {
+    width:100%;
+}
+
+nav a {
+    background-color: #2F393D;
+    text-align: center;
+    text-decoration: none;
+    color: #FC8749;
+    padding: 35px;
+}
+
+nav a:hover {
+    background-color: #4f5763;
+    color: #49CDFC;
+}
+
+.home-title {
+    color: #333;
+    font-family: "Coustard", serif;
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+h2 {
+    color: #333;
+    font-family: "Coustard", serif;
+}
+
+.book, .join {
+    text-decoration: none;
+    background-color: #2F393D;
+    color: #FC8749;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.book:hover, .join:hover {
+    background-color: #63767D;
+    color: #49CDFC;
+}
+
+#background {
+    height: 725px;
+    background-color: #66A6BD;
+    
+}
+
+.msg {
+    line-height: 1.5em;
+    padding: 35px;
+    background-color: #66A6BD;
+
+}
+
+.msg h2 {
+    color: #0b4972;
+    font-family: "Coustard", serif;
+}
+
+.msg p {
+    color: #2F393D;
+    font-size: 0.8em;
+    padding-bottom: 15px;
+}
+
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
+
+.card-img {
+    border: 10px solid #66A6BD;
+}
+
+footer {
+    background-color: #2F393D;
+    color: #FC8749;
+    padding: 25px 50px;
+    margin-top: 200px;
+}
+
+footer a {
+    text-decoration: none;
+    color: #FC8749;
+}
+
+footer a:hover {
+    color: #000000;
+}
+
+footer p {
+    font-size:1.2em;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+    color: #49CDFC;
+}
+
+footer .social img {
+    padding-top: 15px;
+}
