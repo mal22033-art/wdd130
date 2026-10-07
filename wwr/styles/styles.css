@@ -31,6 +31,8 @@ body {
 
 header {
     background-color: #2F393D;
+    display: grid;
+    grid-template-columns: 150px auto;
 }
 
 .logo {
