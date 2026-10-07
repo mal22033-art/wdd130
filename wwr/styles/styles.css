@@ -49,6 +49,8 @@ nav {
 
 #logo-link {
     padding-top: 5px;
+    justify-self: center;
+    align-self: center;
 }
 
 .icon {
