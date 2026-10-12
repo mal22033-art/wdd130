@@ -1,0 +1,49 @@
+body {
+    background-color: #FFECD7;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.card {
+    width: 300px;
+    height: auto;
+    border: 3px solid #004E63;
+    background-color: #008DB1;
+    border-radius: 15px;
+    text-align: center;
+    padding: 0px 10px 10px 10px;
+}
+
+h1 {
+    font-family: Helvetica;
+    color: #fffffe;
+}
+
+#subtitle {
+    font-family: Helvetica;
+    color: #91e4fb;
+    text-decoration: none;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border: 2px solid #FFFFFf;
+    margin-top: 15px;
+}
+
+#list {
+    color: #FFFFFE;
+    font-family: Helvetica;
+    text-align: left;
+    width: 200px;
+    margin-left: 40px;
+}
+
+#quote {
+    font-family: "nanum brush script", cursive;
+    color: #FFD783;
+    margin: 10px;
+}
